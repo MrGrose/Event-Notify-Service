@@ -12,8 +12,6 @@ class EventType(StrEnum):
 
 
 class EventPayload(BaseModel):
-    model_config = ConfigDict(extra="allow")
-
     title: str | None = None
     description: str | None = None
     text: str | None = None
