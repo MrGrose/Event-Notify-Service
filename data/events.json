@@ -1,0 +1,110 @@
+[
+  {
+    "event_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "user_id": "123",
+    "type": "task_created",
+    "payload": {
+      "title": "Сделать отчёт",
+      "description": "до пятницы"
+    }
+  },
+  {
+    "event_id": "6c1f9db3-1dc4-4f11-aad1-04f4d0d5647b",
+    "user_id": "123",
+    "type": "meeting_created",
+    "payload": {
+      "title": "Планерка",
+      "time": "завтра 10:00"
+    }
+  },
+  {
+    "event_id": "5e2d8ac9-b045-4a31-a1c9-74c5de88e4c3",
+    "user_id": "123",
+    "type": "message_received",
+    "payload": {
+      "sender": "Анна",
+      "text": "Проверьте новую задачу"
+    }
+  },
+  {
+    "event_id": "0b1d64e1-6080-47e5-a16a-5e95a043bc30",
+    "user_id": "123",
+    "type": "task_created",
+    "payload": {
+      "title": "Подготовить презентацию",
+      "description": "к понедельнику 09:00"
+    }
+  },
+  {
+    "event_id": "de46c3a6-d345-4aa1-a02e-b2fda74767f9",
+    "user_id": "123",
+    "type": "task_created",
+    "payload": {
+      "title": "Проверить договор",
+      "description": "сегодня до 18:00"
+    }
+  },
+  {
+    "event_id": "8eaa2fd1-90b3-4f7e-8613-824f85e6f2c2",
+    "user_id": "123",
+    "type": "task_created",
+    "payload": {
+      "title": "Обновить KPI",
+      "description": "сегодня до 23:59"
+    }
+  },
+  {
+    "event_id": "2dc9cc80-95ca-4f4e-a43c-488a478a0201",
+    "user_id": "123",
+    "type": "meeting_created",
+    "payload": {
+      "title": "Демо продукта",
+      "time": "среда 15:30"
+    }
+  },
+  {
+    "event_id": "4ed3f2d1-4d59-47e8-bf0f-b7d01ed5f68a",
+    "user_id": "123",
+    "type": "meeting_created",
+    "payload": {
+      "title": "Ретроспектива",
+      "time": "пятница 17:00"
+    }
+  },
+  {
+    "event_id": "9f28f21f-8f52-4da7-a8f7-30f7a9cbd4af",
+    "user_id": "123",
+    "type": "meeting_created",
+    "payload": {
+      "title": "Синхронизация с командой",
+      "time": "четверг 11:00"
+    }
+  },
+  {
+    "event_id": "6c88633b-ec45-43d2-8bb2-d4f8ced6197d",
+    "user_id": "123",
+    "type": "message_received",
+    "payload": {
+      "sender": "Игорь",
+      "text": "Отправил финальную версию файла с правками."
+    }
+  },
+  {
+    "event_id": "0911f36f-a38c-476e-bf42-cb44542ccd7e",
+    "user_id": "123",
+    "type": "message_received",
+    "payload": {
+      "sender": "Мария",
+      "text": "Нужно согласовать бюджет на следующий месяц."
+    }
+  },
+  {
+    "event_id": "8a27b355-cf9d-4df7-8b99-2535849d6868",
+    "user_id": "123",
+    "type": "message_received",
+    "payload": {
+      "sender": "Олег",
+      "text": "Когда будет готов отчёт по конверсии?"
+    }
+  }
+]
